@@ -26,6 +26,13 @@ function readLine() {
  * The function accepts INTEGER_ARRAY arr as parameter.
  */
 
+/*Though process:
+First need to identify # of integers in array
+Identify positive, negative, zero
+Convert to fraction
+Fraction to decimal
+Display on separate lines
+*/
 function plusMinus(arr) {
   // Write your code here
 }
